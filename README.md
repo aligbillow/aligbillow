@@ -1,10 +1,8 @@
 Hi 👋 My name is Ali 
 ===========================
 
-Frontend Developer
+Software Developer
 ------------------
-
-I am a frontend developer who loves react
 
 * ✉️  You can contact me at [alibillow0@gmail.com](mailto:alibillow0@gmail.com)
 * 🚀  I'm currently working on a Web3 Photo Organizing App called [Nerd4NudiBranchs]()
