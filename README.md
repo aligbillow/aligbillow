@@ -7,7 +7,7 @@ Frontend Developer
 I am a frontend developer who loves react
 
 * ✉️  You can contact me at [alibillow0@gmail.com](mailto:alibillow0@gmail.com)
-* 🚀  I'm currently working on a Web3 Photo Organizing App called [Nerd4NudiBranchs](http://ztm.com)
+* 🚀  I'm currently working on a Web3 Photo Organizing App called [Nerd4NudiBranchs]()
 * 🧠  I'm learning Azure DBM and APIM 
 * 🤝  I'm open to collaborating
 * ⚡  I am love Data Science 
